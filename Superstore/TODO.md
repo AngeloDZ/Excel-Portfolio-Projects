@@ -1,14 +1,14 @@
-## To do/think about
+# To do/think about
 
-### Define the Project Goal (Very Important)
+## Define the Project Goal (Very Important)
 
 Start with business questions, not charts.
 
-#### Example project objective:
+### Example project objective:
 
 “Analyze Superstore sales data to identify trends in revenue, profitability, customer behavior, and operational efficiency, and provide actionable business insights.”
 
-#### Example questions to answer:
+### Example questions to answer:
 
 Which regions and states are most/least profitable?
 
@@ -20,25 +20,25 @@ Who are the most valuable customers?
 
 Are there seasonal sales trends?
 
-### Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Use Pivot Tables heavily.
 
-#### Sales & Profit Analysis
+### Sales & Profit Analysis
 
 Total Sales and Profit
 
 Sales & Profit by:
 
-Category
+- Category
 
-Sub-Category
+- Sub-Category
 
-Region
+- Region
 
-Segment
+- Segment
 
-#### Trend Analysis
+### Trend Analysis
 
 Monthly sales trend
 
@@ -46,13 +46,13 @@ Year-over-year growth
 
 Seasonal patterns
 
-#### Discount Impact
+### Discount Impact
 
 Average profit by discount level
 
 Identify discount thresholds where profit turns negative
 
-### Operational Analysis (Bonus Points)
+## Operational Analysis
 
 These are advanced insights for Excel projects:
 
@@ -64,9 +64,9 @@ Late shipments (long shipping times)
 
 High sales but low profit states/products
 
-### Customer Analysis
+## Customer Analysis
 
-Create pivots such as:
+### Create pivots such as:
 
 Top 10 customers by sales
 
@@ -76,6 +76,6 @@ Sales by customer segment
 
 Repeat vs one-time customers (if data allows)
 
-Optional:
+### Optional:
 
 RFM-style logic (basic version using Excel)
