@@ -36,6 +36,18 @@ The graph above shows the top ten products with the highest profit. We can clear
 
 Conversely, the graph above shows the 10 least profitable products. The 'Cubify CubeX 3D Printer Double Head Print' is by far the least profitable product, with a net profit of -$8,879.97.
 
+### Profit by Sub-Category
+
+Now, let's have a look at the profits by a sub-category basis. The following graph shows each sub-category and their respective profits.
+
+We can see thet Tables are by far the worst sub-category, with a total net loss of $17,725.48. Bookcases and Supplies are the other two sub-categories producing a net loss, with a total loss of $3,472.56 and $1,189.10 respectively.
+
+Let's also check the profit margins for each sub-category. The following pivot table shows the sub-categories that have less than 5% of profit, assuming 5% is the minimum target.
+
+As we can see, Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the profits graph.
+
+Interestingly, Machines have only produced a profit margin of 1.79%. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories, as well as having the second highest average discount.
+
 
 ## Regional analysis
 
