@@ -46,8 +46,7 @@ Let's also check the profit margins for each sub-category. The following pivot t
 
 As we can see, Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the profits graph.
 
-Interestingly, Machines have only produced a profit margin of 1.79%. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories, as well as having the second highest average discount.
-
+Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount.
 
 ## Regional analysis
 
