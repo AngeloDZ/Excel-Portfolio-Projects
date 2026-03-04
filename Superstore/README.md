@@ -1,4 +1,4 @@
-# Case Study: Superstore Dataset - Profitablity Analysis
+<img width="113" height="21" alt="image" src="https://github.com/user-attachments/assets/adb74304-cafc-4837-9cc3-4abab8a0eca9" /># Case Study: Superstore Dataset - Profitablity Analysis
 
 ## Objective
 
@@ -86,6 +86,19 @@ The least profitable region of all time, Central, started off very weak, with on
 The graph above shows the all time relationship of the total profits with respect to the Regions and Categories. The column graph clearly shows that that Furniture have by far the worst profits, being the only section that has resulted in a negative total profit. The total net loss in this section is $2,871.05. In fact, it seems that Furniture is all round less profitable than Office Supplies and Technology in all regions by quite a large margin.
 
 ## Segment analysis
+
+### Profits by Segment
+
+<p align="center">
+<img width="2332" height="1206" alt="Profits by segment" src="https://github.com/user-attachments/assets/36bebfcd-b0dc-4d1b-877e-1687b3cd8ae2" />
+</p>
+
+The graph above provides the total profits earned by each Segment for all time sales.
+
+Consumer is the dominant Segment, having produced  $134,119.21 over the course of the 4 years. Corporate has the second most profit earned, with a total of $91,979.13 earned, while Home Office has only produced a total profit of $60,298.68.
+
+What is interesting, though, is that despite the rankings in pure sum of profits, the profit margins tell a slightly different story.
+
 
 ## Other insights
 
