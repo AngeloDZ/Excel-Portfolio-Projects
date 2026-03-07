@@ -68,7 +68,18 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 
 ### Profits by Region
 
+<img width="853" height="541" alt="image" src="https://github.com/user-attachments/assets/fd4e7e6a-67c6-422a-a01e-5da85f6a6fa5" />
+
 This bar graph shows the all time profit made across all products in each region. The West region is the most profitable area, having a total profit of $108,418.45. It is then followed closely by East, which has an impressive sum of $91,522.78. The South and Central regions have quite lower total profits than the first two regions, producing total profits of $46,749.43 and $39,706.36 respectively.
+
+### Profits Margins by Region
+
+<img width="848" height="528" alt="image" src="https://github.com/user-attachments/assets/d2379e5c-cc4d-40d0-a5ef-75a5baf6280d" />
+
+
+### Trends over time
+
+<img width="1006" height="561" alt="image" src="https://github.com/user-attachments/assets/74743a71-031d-4e17-b8ea-3b2d522390ea" />
 
 Above is a line graph consisting of the trends of profits for each region over the years.
 
