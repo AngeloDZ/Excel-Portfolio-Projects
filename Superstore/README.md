@@ -44,7 +44,7 @@ The graph above shows the top ten products with the highest profit. It shows us 
 
 Conversely, the graph above shows the 10 least profitable products. The 'Cubify CubeX 3D Printer Double Head Print' is by far the least profitable product, with a net profit of -$8,879.97.
 
-### Profit by Sub-Category
+### Profits by Sub-Category
 
 Now, let's have a look at the profits by a sub-category basis. The following graph shows each sub-category and their respective profits.
 
@@ -62,7 +62,11 @@ Let's also check the profit margins for each sub-category. The following pivot t
 
 The data shows that Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the profits graph.
 
-Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount.
+Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount. Fasteners can be seen with a low profit margin, but this is understandable as they are cheaply made and are not designed for incredible profits like the other sub-categories.
+
+### Trends for worst performing sub-categories
+
+
 
 ## Regional analysis
 
@@ -74,7 +78,7 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 
 This bar graph shows the all time profit made across all products in each region. The West region is the most profitable area, having a total profit of $108,418.45. It is then followed closely by East, which has an impressive sum of $91,522.78. The South and Central regions have quite lower total profits than the first two regions, producing total profits of $46,749.43 and $39,706.36 respectively.
 
-### Profits Margins by Region
+### Profit Margins by Region
 
 <p align="center">
 <img width="848" height="528" alt="image" src="https://github.com/user-attachments/assets/d2379e5c-cc4d-40d0-a5ef-75a5baf6280d" />
@@ -102,28 +106,7 @@ Despite the South region having fairly low total profit, the following graph put
 
 <img width="1054" height="591" alt="image" src="https://github.com/user-attachments/assets/6e3926c6-82ce-4e71-81d5-7fc11b061bef" />
 
-South have the lowest total quantity of sales, in fact it has sold about half of was West has sold, but have managed to generate more total profits than Central while maintaining a respectable profit margin. A good idea would be to experiment with pushing more sales in the South region if possible, as it could yield more profits without having to adjust pricing strategies.
-
-### Trends over time
-
-<p align="center">
-<img width="1006" height="561" alt="image" src="https://github.com/user-attachments/assets/74743a71-031d-4e17-b8ea-3b2d522390ea" />
-</p>
-
-Above is a line graph consisting of the trends of profits for each region over the years.
-
-With West being the most dominant region for profits, it is no surprise to see that it is consistently performs well each year. In fact it increases steadily up until 2017, with a massive jump in profits up to a total of $43,808.96.
-
-East follows in a similar fashion. Despite a short dip in profits in 2016, it generates almost as much profits as West, including a similar jump in profits in 2017.
-
-The South region seems to have the most unique trend out of all the regions. Between 2014 and 2016, the profits fluctuate quite a bit, but unlike West and East, there is a major drop in profits in 2017.
-
-The least profitable region of all time, Central, started off very weak, with only a total profit of $539.55 for the whole of 2014. Interestingly, profits in that region grew practically linearly between the 2014 and 2016 region. In fact, for 2016, profits in Central came to $19,899.16, nearly matching East, which obtained  $20,141.60 for the same year. However, in 2017 it experienced the largest drop in profits seen ever for any region, dropping to $7,550.84, the lowest for any region that year.
-
-(WHY RISE/DROP IN 2017?)
-### Profits by Region and Category
-
-The graph above shows the all time relationship of the total profits with respect to the Regions and Categories. The column graph clearly shows that that Furniture have by far the worst profits, being the only section that has resulted in a negative total profit. The total net loss in this section is $2,871.05. In fact, it seems that Furniture is all round less profitable than Office Supplies and Technology in all regions by quite a large margin.
+South have the lowest total quantity of sales, in fact it has roughly half the sales in West, but have managed to generate more total profits than Central while maintaining a respectable profit margin. A good idea would be to experiment with pushing more sales in the South region if possible, as it could yield more profits without having to adjust pricing strategies.
 
 ## Segment analysis
 
