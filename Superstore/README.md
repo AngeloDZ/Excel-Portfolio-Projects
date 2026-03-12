@@ -60,7 +60,21 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/5e4e3340-c0a9-4927-8327-7f71b922bc78" />
 </p>
 
+Above is a graph that shows the trend of the sum of profits achieved in the four year period for Bookcases, Machines, Supplies and Tables.
+
+Tables is definitely the worst sub-category of the group. In all four years it has generated negative profit, and seems to be getting worse.
+
+Bookcases seem to have the most variance, with rises and drops in profit across the four year period, but overall negative.
+
+Supplies has the least variety in trends, however profits have been steadlily decreasing over time.
+
+Machines on the other hand have had a decent first 3 years, despite earning little, it was still positive profit compared to the other three sub-categories. However, it took a great hit, and produced overwhelmingly negative profit in 2017.
+
 ### Implications
+
+With regards to which products/sub-categories we should avoid first, Tables are our main priority. They have consistently lost revenue over the four year period, and seem to be getting worse. Pricing strategies should be reviewed immediately to avoid losing more revenue. In fact, discontinuing the sales of Tables could very well be a valid solution, at least better than what has happened thus far. If the company can only make sales of products within the Tables category by applying a discount that produces a net loss in profits, then Tables as a whole may just be unprofitable.
+
+For Supplies, Machines and Bookcases, there is evidence of profits in the past, so it is unlikely they will need to be discontinued, however I strongly advise that pricing strategies and sales for products under these categories be put under review, and question whether these categories are still worth investing money into.
 
 ## Regional analysis
 
