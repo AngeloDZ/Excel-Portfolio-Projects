@@ -66,7 +66,9 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 
 ### Trends for worst performing sub-categories
 
-
+<p align="center">
+<img width="1291" height="752" alt="image" src="https://github.com/user-attachments/assets/5e4e3340-c0a9-4927-8327-7f71b922bc78" />
+</p>
 
 ## Regional analysis
 
@@ -86,27 +88,41 @@ This bar graph shows the all time profit made across all products in each region
 
 This graph shows the profit margins for each region. As we can see, it is almost identical to the total profits accumulated by each region. The West region is again at the top, with a profit margin of 14.94%, followed by East with 13.48%, South with 11.93%, and then Central with the lowest at just 7.92%.
 
-### Implications
-
 From these results, we can clearly see that West is the highest performing region in terms of both total profit and profit margin, while Central is the least profitable and least efficient region.
 
-A strong reason for these results seem to come from the pricing strategies that have been implemented in each region. The below graph provides us with the average discount applied to a typical product in each region.
+A strong reason for these results seem to come from the pricing strategies that have been implemented in each region.
+
+### Discount of products by Region
+
+The below graph provides us with the percentage of revenue that has been discounted from products in each region.
 
 <p align="center">
-<img width="982" height="581" alt="image" src="https://github.com/user-attachments/assets/24099263-dbd1-4b5d-b5fb-c5d09ef37bbf" />
+<img width="1017" height="624" alt="image" src="https://github.com/user-attachments/assets/380492bd-7502-4724-9e92-f2c2dab34057" />
 </p>
 
-Central has an average discount of roughly 24% for products sold in this region, the highest out of any region, while the rest have a much lower discount on average, and in partiuclar West has the least average discount at only 11%. These findings strongly correlate with the results seen when analysing the total profits and profit margins.
+Central has a revenue-weighted discount of roughly 24.56% for products sold in this region, the highest out of any region, while the rest have generally lower discounts, and in partiuclar West has the least at only 15.55%. These findings strongly correlate with the results seen when analysing the total profits and profit margins.
 
-It is clear to see that Central could benefit well from lower rated discounts on products, similar to the pricing strategies amongst the other regions. Central already has a solid amount of sales, so reducing discounts amongst products could lead to a much healthier profit margin, as well as an increase in total profit.
+In fact, we can compare the profit margin with the revenue-weighted discount in a scatter graph.
 
-East and West are healthy in many aspects including quantity of sales, total profit and profit margin. Focusing on sales in these regions would be recommended, as they seem to be much more efficient for profits than the other regions.
+<p align="center">
+<img width="868" height="535" alt="image" src="https://github.com/user-attachments/assets/30a3ac46-ebfc-4d3d-be2e-f32d3b9dcc00" />
+</p>
+
+The graph presents a clear trend, showing a directly inverse relationship between the revenue-weighted discount and the profit margin. We should aim to apply this to the pricing strategies for each region where necessary.
+
+### Implications
+
+It is clear to see that Central could benefit well from lowering discounts on products, similar to the pricing strategies amongst the other regions. Central already has a solid amount of sales, so reducing discounts amongst products could lead to a much healthier profit margin, as well as an increase in total profit.
+
+East and West are healthy in many aspects including quantity of sales, total profit and profit margin. Focusing on sales in these regions would be highly recommended, as they seem to be much more efficient for profits than the other regions.
 
 Despite the South region having fairly low total profit, the following graph puts into perspective the quanity of sales made in each region.
 
+<p align="center">
 <img width="1054" height="591" alt="image" src="https://github.com/user-attachments/assets/6e3926c6-82ce-4e71-81d5-7fc11b061bef" />
+</p>
 
-South have the lowest total quantity of sales, in fact it has roughly half the sales in West, but have managed to generate more total profits than Central while maintaining a respectable profit margin. A good idea would be to experiment with pushing more sales in the South region if possible, as it could yield more profits without having to adjust pricing strategies.
+South has the lowest total quantity of sales. In fact it has roughly half the sales in West, but have managed to generate more total profits than Central while maintaining a respectable profit margin. A good idea would be to experiment with pushing more sales in the South region if possible, as it could yield more profits. Additionally, seeing as it has the second highest revenue-weighted discount, we could aim to lower discounts in this region too. However, adjusting prices could affect the total sales and orders, so it would be best to experiment and test for optimal discount rates.
 
 ## Segment analysis
 
@@ -137,5 +153,11 @@ These findings suggest that the Consumer segment should remain as the highest pr
 The Home Office segment, which has achieved the highest profit margin, shows a very promising opportunity for growth. Pushing for higher sales volume could very well lead to high total profits while maintaining a healthy profit margin.
 
 ## Recommendations
+
+### Products
+
+### Region
+
+### Segment
 
 ## Dashboard
