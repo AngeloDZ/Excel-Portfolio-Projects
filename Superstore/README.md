@@ -19,13 +19,13 @@ Data taken from Kaggle: www.kaggle.com/datasets/vivek468/superstore-dataset-fina
 This analysis will begin with looking at the best and worst performing products that Superstore produces.
 
 <p align="center">
-<img width="3742" height="2066" alt="Best products" src="https://github.com/user-attachments/assets/a8da29f9-7c7e-4b60-af57-cfce71c78ba6" />
+<img width="1000" alt="Best products" src="https://github.com/user-attachments/assets/a8da29f9-7c7e-4b60-af57-cfce71c78ba6" />
 </p>
   
 The graph above shows the top ten products with the highest profit. It shows us that the 'Canon imageCLASS 2200 Advanced Copier' is the most profitable product by a large margin, with a total profit of $25,199.93, indicating a mix of high demand and optimal pricing.
 
 <p align="center">
-<img width="3743" height="1928" alt="Worst Products" src="https://github.com/user-attachments/assets/106c3d34-6ae1-4656-b012-1863c7649cb5" />
+<img width="1000" height="1928" alt="Worst Products" src="https://github.com/user-attachments/assets/106c3d34-6ae1-4656-b012-1863c7649cb5" />
 </p>
 
 Conversely, the graph above shows the 10 least profitable products. The 'Cubify CubeX 3D Printer Double Head Print' is by far the least profitable product, with a net profit of -$8,879.97.
@@ -35,7 +35,7 @@ Conversely, the graph above shows the 10 least profitable products. The 'Cubify 
 Now, let's have a look at the profits by a sub-category basis. The following graph shows each sub-category and their respective profits.
 
 <p align="center">
-<img width="3240" height="1581" alt="Profits by category" src="https://github.com/user-attachments/assets/3076b4ea-01c8-4ffa-9b25-9e50bf2d403d" />
+<img width="1000" alt="Profits by category" src="https://github.com/user-attachments/assets/3076b4ea-01c8-4ffa-9b25-9e50bf2d403d" />
 </p>
 
 This graph shows us that Tables are by far the worst sub-category, with a total net loss of $17,725.48. Bookcases and Supplies are the other two sub-categories producing a net loss, with a total loss of $3,472.56 and $1,189.10 respectively.
@@ -47,7 +47,7 @@ Fasteners can be seen with having a low profit margin, but the reason for this i
 Let's also check the profit margins for the worst sub-categories. The following chart represents the profit margins of sub-categories that have earned less than 5% of profit.
 
 <p align="center">
-<img width="1167" height="709" alt="image" src="https://github.com/user-attachments/assets/f1e5d5e6-bba4-494f-a84e-e200e737bcb3" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f1e5d5e6-bba4-494f-a84e-e200e737bcb3" />
 </p>
 
 The data shows that Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the graph of the total profits.
@@ -57,7 +57,7 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 ### Trends for worst performing sub-categories
 
 <p align="center">
-<img width="1291" height="752" alt="image" src="https://github.com/user-attachments/assets/5e4e3340-c0a9-4927-8327-7f71b922bc78" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5e4e3340-c0a9-4927-8327-7f71b922bc78" />
 </p>
 
 ### Implications
@@ -67,7 +67,7 @@ Interestingly, Machines have only produced a profit margin of 1.79%, and while i
 ### Profits by Region
 
 <p align="center">
-<img width="853" height="541" alt="image" src="https://github.com/user-attachments/assets/fd4e7e6a-67c6-422a-a01e-5da85f6a6fa5" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/fd4e7e6a-67c6-422a-a01e-5da85f6a6fa5" />
 </p>
 
 This bar graph shows the all time profit made across all products in each region. The West region is the most profitable area, having a total profit of $108,418.45. It is then followed closely by East, which has an impressive sum of $91,522.78. The South and Central regions have quite lower total profits than the first two regions, producing total profits of $46,749.43 and $39,706.36 respectively.
@@ -75,7 +75,7 @@ This bar graph shows the all time profit made across all products in each region
 ### Profit Margins by Region
 
 <p align="center">
-<img width="848" height="528" alt="image" src="https://github.com/user-attachments/assets/d2379e5c-cc4d-40d0-a5ef-75a5baf6280d" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2ff02f79-98a7-4542-b0c2-a74615ce21b7" />
 </p>
 
 This graph shows the profit margins for each region. As we can see, it is almost identical to the total profits accumulated by each region. The West region is again at the top, with a profit margin of 14.94%, followed by East with 13.48%, South with 11.93%, and then Central with the lowest at just 7.92%.
@@ -89,7 +89,7 @@ A strong reason for these results seem to come from the pricing strategies that 
 The below graph provides us with the percentage of revenue that has been discounted from products in each region.
 
 <p align="center">
-<img width="1017" height="624" alt="image" src="https://github.com/user-attachments/assets/380492bd-7502-4724-9e92-f2c2dab34057" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/380492bd-7502-4724-9e92-f2c2dab34057" />
 </p>
 
 Central has a revenue-weighted discount of roughly 24.56% for products sold in this region, the highest out of any region, while the rest have generally lower discounts, and in partiuclar West has the least at only 15.55%. These findings strongly correlate with the results seen when analysing the total profits and profit margins.
@@ -97,7 +97,7 @@ Central has a revenue-weighted discount of roughly 24.56% for products sold in t
 In fact, we can compare the profit margin with the revenue-weighted discount in a scatter graph.
 
 <p align="center">
-<img width="868" height="535" alt="image" src="https://github.com/user-attachments/assets/30a3ac46-ebfc-4d3d-be2e-f32d3b9dcc00" />
+<img width="700" src="https://github.com/user-attachments/assets/30a3ac46-ebfc-4d3d-be2e-f32d3b9dcc00" />
 </p>
 
 The graph presents a clear trend, showing a directly inverse relationship between the revenue-weighted discount and the profit margin. We should aim to apply this to the pricing strategies for each region where necessary.
@@ -111,7 +111,7 @@ East and West are healthy in many aspects including quantity of sales, total pro
 Despite the South region having fairly low total profit, the following graph puts into perspective the quanity of sales made in each region.
 
 <p align="center">
-<img width="1054" height="591" alt="image" src="https://github.com/user-attachments/assets/6e3926c6-82ce-4e71-81d5-7fc11b061bef" />
+<img width="800" height="591" alt="image" src="https://github.com/user-attachments/assets/6e3926c6-82ce-4e71-81d5-7fc11b061bef" />
 </p>
 
 South has the lowest total quantity of sales. In fact it has roughly half the sales in West, but have managed to generate more total profits than Central while maintaining a respectable profit margin. A good idea would be to experiment with pushing more sales in the South region if possible, as it could yield more profits. Additionally, seeing as it has the second highest revenue-weighted discount, we could aim to lower discounts in this region too. However, adjusting prices could affect the total sales and orders, so it would be best to experiment and test for optimal discount rates.
@@ -121,7 +121,7 @@ South has the lowest total quantity of sales. In fact it has roughly half the sa
 ### Total Profits by Segment
 
 <p align="center">
-<img width="2332" height="1206" alt="Profits by segment" src="https://github.com/user-attachments/assets/36bebfcd-b0dc-4d1b-877e-1687b3cd8ae2" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6cfe6d5a-427c-4811-ae41-6caf5394f192" />
 </p>
 
 The graph above provides the total profits earned by each Segment over the four year period.
@@ -133,7 +133,7 @@ The Consumer segment is the dominant contributor to profits, having produced $13
 What is interesting, though, is that despite the rankings in pure sum of profits, the profit margins show a different pattern.
 
 <p align="center">
-<img width="2441" height="1289" alt="Segment profit margin graph" src="https://github.com/user-attachments/assets/868fe649-6cf7-4601-9073-b64e50087a9b" />
+<img width="800" alt="Segment profit margin graph" src="https://github.com/user-attachments/assets/868fe649-6cf7-4601-9073-b64e50087a9b" />
 </p>
 
 As we can see in the above chart, the profit margins generated by each segment rank in reverse order. Home Office managed to achieve the highest profit margin of 14.03%, followed by Corporate with 13.03%, and leaving Consumer with the lowest, yet respectable, profit margin of 11.55%.
