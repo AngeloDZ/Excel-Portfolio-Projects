@@ -108,7 +108,7 @@ It is clear to see that Central could benefit well from lowering discounts on pr
 
 East and West are healthy in many aspects including quantity of sales, total profit and profit margin. Focusing on sales in these regions would be highly recommended, as they seem to be much more efficient for profits than the other regions.
 
-Despite the South region having fairly low total profit, the following graph puts into perspective the quanity of sales made in each region.
+Despite the South region having fairly low total profit, the following graph puts into perspective the quantity of sales made in each region.
 
 <p align="center">
 <img width="800" height="591" alt="image" src="https://github.com/user-attachments/assets/6e3926c6-82ce-4e71-81d5-7fc11b061bef" />
