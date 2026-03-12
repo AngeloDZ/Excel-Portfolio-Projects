@@ -54,21 +54,27 @@ Now, let's have a look at the profits by a sub-category basis. The following gra
 
 This graph shows us that Tables are by far the worst sub-category, with a total net loss of $17,725.48. Bookcases and Supplies are the other two sub-categories producing a net loss, with a total loss of $3,472.56 and $1,189.10 respectively.
 
-Let's also check the profit margins for each sub-category. The following pivot table shows the sub-categories that have less than 5% of profit, assuming 5% is the minimum target.
+Fasteners can be seen with having a low profit margin, but the reason for this is that they are by far the cheapest type of product, thus the total sales and profits are expected to be low.
+
+### Worst Profit Margins by Sub-Category
+
+Let's also check the profit margins for the worst sub-categories. The following chart represents the profit margins of sub-categories that have earned less than 5% of profit.
 
 <p align="center">
-<img width="794" height="223" alt="Worst Profit Margin" src="https://github.com/user-attachments/assets/825279d1-6c81-4a3f-9800-85674d0d97af" />
+<img width="1167" height="709" alt="image" src="https://github.com/user-attachments/assets/f1e5d5e6-bba4-494f-a84e-e200e737bcb3" />
 </p>
 
-The data shows that Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the profits graph.
+The data shows that Tables, Bookcases and Supplies each have a negative profit margin of -8.56%, -3.02% and -2.55% respectively, which follows relatively in line with the graph of the total profits.
 
-Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount. Fasteners can be seen with a low profit margin, but this is understandable as they are cheaply made and are not designed for incredible profits like the other sub-categories.
+Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount.
 
 ### Trends for worst performing sub-categories
 
 <p align="center">
 <img width="1291" height="752" alt="image" src="https://github.com/user-attachments/assets/5e4e3340-c0a9-4927-8327-7f71b922bc78" />
 </p>
+
+### Implications
 
 ## Regional analysis
 
