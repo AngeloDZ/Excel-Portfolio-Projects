@@ -12,20 +12,6 @@ Data taken from Kaggle: www.kaggle.com/datasets/vivek468/superstore-dataset-fina
 - Check for missing values (TO DO)
 - Converting dates from American (MDY) to UK (DMY). (Text to Columns)
 
-## Introductory Questions
-
-Let's answer some standard questions to provide some context to the dataset.
-
-### What is the all time profit margin achieved by the company?
-
-From the data we can work out the the total profit is $286,397.02, and the total sales is $2,297,200.86 for the 2014 to 2017 period.
-
-This gives us a 12.47% (2 d.p.) profit margin.
-
-### Which products have the highest quantity of sales?
-
-### What are the most profitable products?
-
 ## Product analysis
 
 ### Most and least profitable products
