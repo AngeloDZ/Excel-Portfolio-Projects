@@ -74,14 +74,13 @@ Tables is definitely the worst sub-category of the group. In all four years it h
 
 Bookcases seem to have the most variance, with rises and drops in profit across the four year period, but overall negative.
 
-Supplies has the least variety in trends, however profits have been steadlily decreasing over time.
+Supplies has the least variety in trends, however profits have been slowly decreasing over time.
 
 Machines on the other hand have had a decent first 3 years, despite earning little, it was still positive profit compared to the other three sub-categories. However, it took a great hit, and produced overwhelmingly negative profit in 2017.
 
 ### Implications
 
-Copiers, Phones and Accesories have brought in the highest volume of profits out of all other sub-categories throughout 
-
+Technology has brought in the most profit for Superstore out of all the Categories. Copiers, Phones and Accesories, all within the Technology category, are the top three earners for profits out of all sub-categories for all time sales. It would make sense to keep Technology as Superstore's main focus. As Office Supplies have a very similar trend as Technology, its own strategy should be too. Superstore could push for a few more sales, seeing as it, too, is a growing field.
 
 With regards to which products/sub-categories we should avoid first, Tables are our main priority. They have consistently lost revenue over the four year period, and seem to be getting worse. Pricing strategies should be reviewed immediately to avoid losing more revenue. In fact, discontinuing the sales of Tables could very well be a valid solution, at least better than what has happened thus far. If the company can only make sales of products within the Tables category by applying a discount that produces a net loss in profits, then Tables as a whole may just be unprofitable.
 
@@ -103,15 +102,13 @@ This bar graph shows the all time profit made across all products in each region
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/2ff02f79-98a7-4542-b0c2-a74615ce21b7" />
 </p>
 
-This graph shows the profit margins for each region. As we can see, it is almost identical to the total profits accumulated by each region. The West region is again at the top, with a profit margin of 14.94%, followed by East with 13.48%, South with 11.93%, and then Central with the lowest at just 7.92%.
+As we can see, it is almost identical to the total profits accumulated by each region. The West region is again at the top, with a profit margin of 14.94%, followed by East with 13.48%, South with 11.93%, and then Central with the lowest at just 7.92%.
 
 From these results, we can clearly see that West is the highest performing region in terms of both total profit and profit margin, while Central is the least profitable and least efficient region.
 
 A strong reason for these results seem to come from the pricing strategies that have been implemented in each region.
 
 ### Discount of products by Region
-
-The below graph provides us with the percentage of revenue that has been discounted from products in each region.
 
 <p align="center">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/380492bd-7502-4724-9e92-f2c2dab34057" />
@@ -149,8 +146,6 @@ South has the lowest total quantity of sales. In fact it has roughly half the sa
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6cfe6d5a-427c-4811-ae41-6caf5394f192" />
 </p>
 
-The graph above provides the total profits earned by each Segment over the four year period.
-
 The Consumer segment is the dominant contributor to profits, having produced $134,119.21 over the course of the 4 years. Corporate has the second most profit earned, having achieved a total of $91,979.13, while Home Office has only produced a total profit of $60,298.68.
 
 ### Profit Margins by Segment
@@ -169,12 +164,22 @@ These findings suggest that the Consumer segment should remain as the highest pr
 
 The Home Office segment, which has achieved the highest profit margin, shows a very promising opportunity for growth. Pushing for higher sales volume could very well lead to high total profits while maintaining a healthy profit margin.
 
-## Recommendations
+## Recommendations Review
 
 ### Products
+- Focus on maintaining or increasing sales in Technology and Office Supplies.
+- Sales of Tables require immediate review. Highly reccomend reduction in discounts or costs. If truely unprofitable, consider discontinuing these products, but only if there is no reason to keep them.
+- Pricing strategies of Bookcases and Supplies should be reviewed. Question whether they are worth keeping.
+- Machines could return to being profitable, so adjust and experiment with pricing strategies.
 
 ### Region
+- Focus on maintaing or increasing sales within the West and East.
+- Experiment with pushing for a few more sales in the South.
+- Pricing strategies in Central should be reviewed, most likely needing to reduce the discounts in that region.
 
 ### Segment
+- Keep Consumer as the priority, but look to increase sales efficiency, possibly by reducing discounts or other methods.
+- Experiment with pushing for more sales for Home Office.
+- Treat Corporate as the middle ground, a balance between strategies for Consumer and Home Office.
 
 ## Dashboard
