@@ -4,7 +4,7 @@
 
 To analyse key drivers of profits for the company, identify financially weak areas and provide insights.
 
-Data taken from Kaggle: www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Data and scenario taken from Kaggle: www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Data Cleaning
 - Spelling checks (None found) - Not correcting customer or product names.
@@ -54,6 +54,14 @@ The data shows that Tables, Bookcases and Supplies each have a negative profit m
 
 Interestingly, Machines have only produced a profit margin of 1.79%, and while it is still positive, it is still very low. This is likely due to the cost of goods for Machines in particular being the most expensive out of all other sub-categories combined with having the second highest average discount.
 
+### Trends for profit over time by Category
+
+<p align="center">
+<img width="1089" height="594" alt="image" src="https://github.com/user-attachments/assets/70596e38-7319-4a4f-ba91-c7800f2b39da" />
+</p>
+
+The above line graph shows the trend in total profit accumulated each year by each main categories. Technology and Office Supplies both have very healthy total profits and have steadily generated increased profits every year since 2014. On the other hand, Furniture has fluctuated constantly throughout the four year period, all while remaining with generally low profits.
+
 ### Trends for worst performing sub-categories
 
 <p align="center">
@@ -71,6 +79,9 @@ Supplies has the least variety in trends, however profits have been steadlily de
 Machines on the other hand have had a decent first 3 years, despite earning little, it was still positive profit compared to the other three sub-categories. However, it took a great hit, and produced overwhelmingly negative profit in 2017.
 
 ### Implications
+
+Copiers, Phones and Accesories have brought in the highest volume of profits out of all other sub-categories throughout 
+
 
 With regards to which products/sub-categories we should avoid first, Tables are our main priority. They have consistently lost revenue over the four year period, and seem to be getting worse. Pricing strategies should be reviewed immediately to avoid losing more revenue. In fact, discontinuing the sales of Tables could very well be a valid solution, at least better than what has happened thus far. If the company can only make sales of products within the Tables category by applying a discount that produces a net loss in profits, then Tables as a whole may just be unprofitable.
 
