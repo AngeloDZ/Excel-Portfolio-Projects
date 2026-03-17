@@ -1,4 +1,4 @@
-# Superstore Dataset - Profitablity Analysis
+# Superstore Dataset - Profitability Analysis
 
 ## Objective
 
